@@ -27,8 +27,7 @@ background: rgba(0, 0, 0, 0.9);
 width: auto;
 height: auto;
 padding: 20px;
-margin:100px;
-shape-margin: 100px;
+margin:auto;
 box-shadow: 3px 3px 5px black; 
 margin-top: 0px;
 }
