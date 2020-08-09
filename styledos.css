@@ -1,0 +1,143 @@
+
+nav ul a,
+
+body{
+background-attachment: fixed; 
+  background-image: url("marmol.jpg ");
+background-color: black;
+margin:auto;
+padding-left: 20px;}
+ 
+
+#parallax{
+
+  margin: auto;
+  margin-top: 100px;margin-bottom: 100px;
+}
+
+.dropdown a:hover{
+  text-decoration: none;
+  color: pink;
+}
+
+
+
+#abajodelabarra{
+background: rgba(0, 0, 0, 0.9);
+width: auto;
+height: auto;
+padding: 20px;
+margin:auto;
+shape-margin: 100px;
+box-shadow: 3px 3px 5px black; 
+margin-top: 0px;
+margin-bottom: 100px;
+}
+
+#barra{
+border-radius: 5px;
+font-size: 15px;
+font-weight: bold 10px;
+background-color: #FFD700;
+flex-direction: row;
+justify-content: center;
+align-content: center;
+width: auto;
+height: auto;
+color: white;
+padding: 30px;
+margin: auto;
+margin-bottom: 0px;
+box-shadow: 3px 3px 5px black;
+}
+
+
+img{
+  border-radius: 10px;
+}
+
+
+p {font-family: 'Staatliches', cursive;
+  color: white;
+  font-size: 25px;}
+
+h5{
+  color:white;
+font-size: 25px
+font-weight: bold;
+}
+
+h2{ display: flex;
+  justify-content: flex-start;
+  font-family: 'Staatliches', cursive;
+  padding: : 30px;
+   color:black;
+font-size: 20px
+font-weight: bold;
+}
+
+
+ #footer {
+  box-shadow: 3px 3px 5px black;
+  background-color: #0B5345;
+  margin: 30px 20px;
+  border-radius: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding: 20px;
+  font-size: 50px;
+}
+#footer a {
+
+  color: white;
+}
+#footer a:hover{
+  color: yellow;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+  font-size: 40px;
+  color: white;
+
+  }
+
+
+#gallery{
+  display: flex;
+  justify-content: space-between;
+ margin: 50px;
+margin-top: 10px;}
+
+#gallery img{
+  margin: 20px;
+  width: 80%;
+  height: 80%;
+}
+.botton a {
+  color: white;
+
+}
+.botton a:hover{
+   text-decoration: none;
+   font-size: 25px;
+   font-weight: bold;
+
+   }
+
+   .frase{
+  margin-bottom: 100px;
+  display: flex;
+  align-content: center;
+  font-family: 'Courier Prime', monospace; color: black;
+  background-color: red;
+  
+
+}
+
+.frase p{ 
+  font-family: 'Courier Prime', monospace; color: black;
+text-align: center;
+color: white;
+font-weight: bold;}
