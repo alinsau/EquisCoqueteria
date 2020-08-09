@@ -40,9 +40,9 @@ h4 {color: #f50057 ;
 padding: 20px;
 background: white;
 font-weight: bold;
-margin: 30px;
+margin: auto;
 width: 300px;
-text-shadow: 9px 10px 15px black;
+text-shadow: 9px 10px 9px black;
 }
 p {font-family: 'Staatliches', cursive;
   color: white;
